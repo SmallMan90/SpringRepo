@@ -2,7 +2,11 @@
 <web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+<<<<<<< HEAD
 	<display-name>MvcFormSpring</display-name>
+=======
+	<display-name>SpringProject1</display-name>
+>>>>>>> 5d62ec21699a3e5482ec7ddc9afb274baa724178
 	<context-param>
 		<param-name>contextClass</param-name>
 		<param-value>
@@ -24,7 +28,11 @@
 		</init-param>
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
+<<<<<<< HEAD
 			<param-value>com.somnath.SpringMvcForm.MvcFormSpring</param-value>
+=======
+			<param-value>com.somnath.basicspringproject.SpringProject1</param-value>
+>>>>>>> 5d62ec21699a3e5482ec7ddc9afb274baa724178
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>

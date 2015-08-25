@@ -2,12 +2,21 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
 	<groupId>com.somnath.SpringMvcForm</groupId>
 	<artifactId>MvcFormSpring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>MvcFormSpring</name>
+=======
+	<groupId>com.somnath.basicspringproject</groupId>
+	<artifactId>SpringProject1</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+
+	<name>SpringProject1</name>
+>>>>>>> 5d62ec21699a3e5482ec7ddc9afb274baa724178
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -69,16 +78,26 @@
 		</dependency>
 	</dependencies>
 
+<<<<<<< HEAD
 	<repositories>
+=======
+	<!-- <repositories>
+>>>>>>> 5d62ec21699a3e5482ec7ddc9afb274baa724178
 		<repository>
 			<id>springsource-milestones</id>
 			<name>SpringSource Milestones Proxy</name>
 			<url>https://oss.sonatype.org/content/repositories/springsource-milestones</url>
 		</repository>
 	</repositories>
+<<<<<<< HEAD
 
 	<build>
 		<finalName>MvcFormSpring</finalName>
+=======
+ -->
+	<build>
+		<finalName>SpringProject1</finalName>
+>>>>>>> 5d62ec21699a3e5482ec7ddc9afb274baa724178
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
